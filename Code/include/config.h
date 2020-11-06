@@ -13,7 +13,7 @@
 #define TXDBM 20          // TX power of the radio.
 
 #define LORADUTY 1 // TX max duty cycle
-#define NETID 121  // Network id
+#define NETID 111  // Network id
 
 // L1 config (needs to be the same on each node!)
 #define L1BUFFER 20       // Packet queue, increase if using high spreading factor
