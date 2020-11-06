@@ -123,7 +123,7 @@ void webserver_loop()
 String index_html()
 {
   String html = "<!DOCTYPE html><html>"
-                "<head><title>LoRaMessenger</title>"
+                "<head><title>LoRaMessenger by Arne</title>"
                 "<meta name=viewport content=\"width=device-width,initial-scale=1\">"
                 "<style>article { background: #f2f2f2; padding: 1em; }"
                 "body { color: #333; font-family: Century Gothic, sans-serif; font-size: 18px; line-height: 24px; margin: 0; padding: 0; }"
